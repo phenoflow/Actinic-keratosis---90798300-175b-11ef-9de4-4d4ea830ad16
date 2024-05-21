@@ -1,0 +1,12 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/actinic-keratosis---primary.py
+inputModule3:
+  class: File
+  path: python/output-cases.py
